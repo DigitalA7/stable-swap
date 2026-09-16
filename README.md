@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français consacré à l’invariant StableSwap de Saber, au programme Anchor, aux comptes, à la liquidité, aux swaps et aux clients. Voir [le sommaire](docs/fr/README.md).
+
 # stable-swap
 
 [![License](https://img.shields.io/crates/l/stable-swap-anchor)](https://github.com/saber-hq/stable-swap/blob/master/LICENSE)
